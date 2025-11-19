@@ -1,0 +1,5 @@
+# ProjectEval — Python dependencies
+mysql-connector-python>=8.0.33
+
+# Note: `tkinter` is part of the standard Python distribution on Windows
+# (no pip package). Ensure you have Python's Tkinter installed.
